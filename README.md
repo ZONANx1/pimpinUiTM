@@ -26,5 +26,5 @@ Login
 <img src="https://user-images.githubusercontent.com/86862536/218356884-57991607-2581-4c0e-b2cb-0445127363a4.png" width="280" height="500">
 My Account
 
-<img src="https://user-images.githubusercontent.com/86862536/218357461-00ea78bf-c883-4c88-9999-5cf309901b74.png" width="280" height="500">
+<img src="https://user-images.githubusercontent.com/86862536/218371933-a26d7bd4-6826-410b-adfc-f16ae33f57be.png" width="280" height="500">
 Gallery
