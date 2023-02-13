@@ -1,7 +1,7 @@
 # pimpinUiTM mobile app version
 convert view and functionality from web to mobile view (responsive)
 
-React Native docs - https://reactnative.dev/docs/0.64/environment-setup
+Make sure install VS Code and emulator for OS
 
 Setup
 1. Open terminal/Git Bash/Powershell
@@ -13,10 +13,18 @@ npm install -g expo-cli
 - cd pimpinuitm_dev
 - npm start # you can also use: expo start
 
+React Native docs - https://reactnative.dev/docs/0.64/environment-setup
+
 Website Version - https://www.pimpinuitm.org.my/
 
-![landing page](https://user-images.githubusercontent.com/86862536/218355294-7ef5fd60-019e-4966-8375-4d518cf091fa.PNG)
+![landing page](https://user-images.githubusercontent.com/86862536/218356879-7e51a49d-3f75-4a24-b81e-aed2d7e30c8a.png)
+Landing Page
 
-![my account](https://user-images.githubusercontent.com/86862536/218355322-b785a4b3-38fc-4502-8e9b-aad88f011ee3.PNG)
+![login](https://user-images.githubusercontent.com/86862536/218356872-e770f958-94f0-42e6-ae3a-a5d5d92feeec.png)
+Login
 
-![galeri](https://user-images.githubusercontent.com/86862536/218355330-fb688da9-fb66-4c2c-ade8-13d6cd868b87.PNG)
+![my account](https://user-images.githubusercontent.com/86862536/218356884-57991607-2581-4c0e-b2cb-0445127363a4.png)
+My Account
+
+![galeri](https://user-images.githubusercontent.com/86862536/218356888-99bc8fa4-1a60-4ea9-8bc6-777ba62956d7.png)
+Gallery
