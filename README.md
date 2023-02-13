@@ -17,7 +17,7 @@ React Native docs - https://reactnative.dev/docs/0.64/environment-setup
 
 Website Version - https://www.pimpinuitm.org.my/
 
-![landing page](https://user-images.githubusercontent.com/86862536/218356879-7e51a49d-3f75-4a24-b81e-aed2d7e30c8a.png)
+![landing page](https://user-images.githubusercontent.com/86862536/218356879-7e51a49d-3f75-4a24-b81e-aed2d7e30c8a.png | width=60)
 Landing Page
 
 ![login](https://user-images.githubusercontent.com/86862536/218356872-e770f958-94f0-42e6-ae3a-a5d5d92feeec.png)
