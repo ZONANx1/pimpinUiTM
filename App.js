@@ -1,20 +1,30 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
-
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
-}
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+import React, { Component } from 'react'  
+import {  
+    View,StyleSheet,AppRegistry  
+} from 'react-native'  
+import {WebView} from 'react-native-webview'  
+  
+export default class ActivityIndicatorDemo extends Component {  
+    render() {  
+        return (  
+            <View style = {styles.container}>  
+                {/*<WebView 
+                    source={{html: '<h1>Hello javaTpoint</h1>'}} 
+                />*/}  
+             {/*   <WebView 
+                    source={require("./resources/index.html")} 
+                />*/}  
+                <WebView  
+                    source = {{ uri:'https://www.pimpinuitm.org.my/' }}  
+                />  
+            </View>  
+        )  
+    }  
+}  
+const styles = StyleSheet.create({  
+    container: {  
+        flex: 1,  
+    }  
+})  
+  
+AppRegistry.registerComponent('App', () => ActivityIndicatorDemo)  
