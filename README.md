@@ -10,7 +10,6 @@ npm install -g expo-cli
 
 2. Start a development server
 expo init pimpinuitm_dev
-
 cd pimpinuitm_dev
 npm start # you can also use: expo start
 
