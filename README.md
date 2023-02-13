@@ -1,7 +1,7 @@
 # pimpinUiTM mobile app version
 convert view and functionality from web to mobile view (responsive)
 
-Make sure install VS Code and emulator for OS
+Make sure install VS Code and emulator for OS. 
 Download source code files at Master-branch
 
 Setup
